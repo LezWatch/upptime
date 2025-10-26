@@ -1,6 +1,8 @@
-# [![LezWatch.TV](https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg | width=100)](https://lezwatchtv.com)
+# [LezWatch.TV](https://lezwatchtv.com)
 
 <!--start: description-->
+
+<img src="https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg" width="100" alt="LezWatch.TV Toaster Logo" style="float: left;">
 
 **LezWatch.TV** (https://lezwatchtv.com) -- The Greatest Database of Queer Female, Non-Binary, & Transgender TV
 
