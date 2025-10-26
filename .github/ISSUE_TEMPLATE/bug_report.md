@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Let us know what needs work
 title: ''
 labels: 'bug'
-assignees: 'AnandChowdhary'
+assignees: 'ipstenu'
 
 ---
 
