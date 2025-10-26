@@ -19,9 +19,11 @@ status-website:
   introMessage: Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)
   navbar:
     - title: Status
-      href: /
+      href: #
     - title: LWTV
       href: https://lezwatchtv.com
+    - title: Documentation
+      href: https://docs.lezwatchtv.com
   themeUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
 
 # Upptime also supports notifications, assigning issues, and more
