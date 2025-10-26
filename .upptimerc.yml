@@ -11,9 +11,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  # cname: status.lezwatchtv.com
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg
+  logoUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/images/logo.svg
   name: LezWatch.TV Status
   introTitle: "**LezWatch.TV** is the greatest database of Queer Female, Non-Binary, and Transgender TV."
   introMessage: Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)
@@ -22,6 +22,9 @@ status-website:
       href: /
     - title: LWTV
       href: https://lezwatchtv.com
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
