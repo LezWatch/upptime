@@ -1,4 +1,4 @@
-# [![LezWatch.TV](https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg)](https://lezwatchtv.com)
+# [![LezWatch.TV](https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg | width=100)](https://lezwatchtv.com)
 
 <!--start: description-->
 
