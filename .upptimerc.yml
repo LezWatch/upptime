@@ -7,13 +7,14 @@ sites:
     url: https://www.lezwatchtv.com
   - name: Documentation
     url: https://docs.lezwatchtv.com
+    icon: https://lezwatchtv.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.lezwatchtv.com
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/images/logo.svg
+  logoUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/logo.svg
   name: LezWatch.TV Status
   introTitle: "**LezWatch.TV** is the greatest database of Queer Female, Non-Binary, and Transgender TV."
   introMessage: Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)
