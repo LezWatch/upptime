@@ -39,9 +39,9 @@
 	--card-background-color: var(--color-ltgray);
 	--card-border-color: var(--color-dkgray);
 
-	--nav-background-color: var(--color-ltblue);
-	--nav-border-bottom-color:  var(--color-blue);
-	--nav-current-border-bottom-color: var(--color-dkblue);
+	--nav-background-color: var(--color-ltpink);
+	--nav-border-bottom-color:  var(--color-pink);
+	--nav-current-border-bottom-color: var(--color-dkpink);
 
 	--down-border-left-color: var(--color-mid-red);
 	--down-background-color: var(--color-light-red);
