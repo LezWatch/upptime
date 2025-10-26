@@ -1,9 +1,6 @@
-# [LezWatch.TV](https://lezwatchtv.com)
+# <img src="https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg" width="75" alt="LezWatch.TV Toaster Logo"> [LezWatch.TV](https://lezwatchtv.com)
 
 <!--start: description-->
-
-<img src="https://raw.githubusercontent.com/LezWatch/lwtv-underscores/refs/heads/production/images/lwtv-toaster.svg" width="100" alt="LezWatch.TV Toaster Logo" style="float: left;">
-
 **LezWatch.TV** (https://lezwatchtv.com) -- The Greatest Database of Queer Female, Non-Binary, & Transgender TV
 
 Because representation matters, we document TV shows with queer female, non-binary, and transgender characters to find the best fully developed LGBT stories. Looking for something specific? Search our database of over 2000 international TV shows and web series to find shows to watch with queer characters you’ll fall in love with.
