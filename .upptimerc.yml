@@ -7,7 +7,6 @@ sites:
     url: https://www.lezwatchtv.com
   - name: Documentation
     url: https://docs.lezwatchtv.com
-    icon: https://lezwatchtv.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,9 +22,7 @@ status-website:
       href: /
     - title: LWTV
       href: https://lezwatchtv.com
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
+  themeUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
