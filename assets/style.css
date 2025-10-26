@@ -1,0 +1,70 @@
+:root {
+	/* Color Defines from LWTV Branding */
+    --color-ltgrey: #ebf5fa;
+	--color-grey: #f3f3f3;
+	--color-grey2: #d6d6d6;
+	--color-medgrey: #555;
+	--color-dkgrey: #333;
+	--color-bordergrey: rgba(0, 0, 0, 0.125);
+	--color-pink: #cb3e85;
+	--color-ltpink: #eecee3;
+	--color-dkpink: #9e2968;
+	--color-purple: #8d329f;
+	--color-ltpurple: #e0d2fe;
+	--color-ltblue: #d1ecf1;
+	--color-dkblue: #435260;
+	--color-salmon: #f55a4e;
+	--color-red: #dc3232;
+	--color-yellow: #f1c40f;
+	--color-gold: #ffd700;
+	--color-silver: #999;
+	--color-bronze: #b87333;
+	--color-orange: #e51e24;
+	--color-green: #047a49;
+
+	--color-black: #000;
+	--color-white: #fff;
+    
+	--color-dark-green: #005f41;
+	--color-light-green: #d8e8e4;
+	--color-dark-red: #6b1020;
+	--color-mid-red: #eb3b5a;
+	--color-light-red: #ffd0d2;
+	--color-transparent-gray: #e6e6e7dd;
+
+	/* Default Theme */
+	--body-background-color: var(--color-white);
+	--body-text-color: var(--color-black);
+
+	--card-background-color: var(--color-ltgray);
+	--card-border-color: var(--color-dkgray);
+
+	--nav-background-color: var(--color-ltblue);
+	--nav-border-bottom-color:  var(--color-blue);
+	--nav-current-border-bottom-color: var(--color-dkblue);
+
+	--down-border-left-color: var(--color-mid-red);
+	--down-background-color: var(--color-light-red);
+
+	--degraded-border-left-color: var(--color-orange);
+
+	--up-border-left-color: var(--color-dark-green);
+
+	--tag-color: var(--color-white);
+	--tag-up-background-color: var(--color-dark-green);
+	--tag-down-background-color: var(--color-red);
+	--tag-degraded-background-color: var(--color-orange);
+
+	--change-background-color: var(--color-orange);
+
+	--error-button-border-color: var(--color-dark-blue);
+	--error-button-background-color: var(--color-blue);
+	--error-button-color: var(--color-white);
+
+	--submit-button-border-color: var(--color-dark-blue);
+	--submit-button-background-color: var(--color-blue);
+	--submit-button-color: var(--color-white);
+
+	--graph-opacity: 1;
+	--graph-filter: none;
+}
