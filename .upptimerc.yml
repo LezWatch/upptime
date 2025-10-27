@@ -17,10 +17,10 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://status.lezwatchtv.com/logo.svg
   name: LezWatch.TV Status
-  favicon: https://status.lezwatchtv.com/favicon.png
+  favicon: https://status.lezwatchtv.com/favicon.ico
   faviconSvg: https://status.lezwatchtv.com/favicon.svg
-  introTitle: "**LezWatch.TV** is the greatest database of Queer Female, Non-Binary, and Transgender TV."
-  introMessage: "Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)"
+  introTitle: "Status of **LezWatch.TV** - The Greatest Database of Queer Female, Non-Binary, and Transgender TV"
+  introMessage: "Keep up to date with our site status here and don't forget to check out the [**main site**](https://lezwatchtv.com) for more information on Queer TV."
   navbar:
     - title: Status
       href: https://status.lezwatchtv.com
