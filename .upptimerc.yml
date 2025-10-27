@@ -14,6 +14,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/logo.svg
   name: LezWatch.TV Status
+  faviconSvg: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/logo.svg
   introTitle: "**LezWatch.TV** is the greatest database of Queer Female, Non-Binary, and Transgender TV."
   introMessage: Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)
   navbar:
@@ -24,6 +25,7 @@ status-website:
     - title: Docs.
       href: https://docs.lezwatchtv.com
   themeUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
+  customHeadHtml: "<script async defer src='https://uptime.ipstenu.com/tracker.js' data-website-id='cmh8e57bo0bs9387jd6xn20as'></script>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
