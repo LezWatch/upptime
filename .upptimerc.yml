@@ -25,11 +25,7 @@ status-website:
     - title: Docs.
       href: https://docs.lezwatchtv.com
   themeUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
-  scripts:
-    - js: "data-website-id='cmh8e57bo0bs9387jd6xn20as'"
-    - src: https://uptime.ipstenu.com/tracker.js
-      async: true
-      defer: true
+  customHeadHtml: "<script async defer src='https://uptime.ipstenu.com/tracker.js' data-website-id='cmh8e57bo0bs9387jd6xn20as'></script>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
