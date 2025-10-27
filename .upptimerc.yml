@@ -1,5 +1,8 @@
-owner: lezwatch # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# .upptimerc.yml
+# This file is used to configure the Upptime status page.
+# See https://upptime.js.org/docs/configuration for more information.
+owner: lezwatch
+repo: upptime
 
 sites:
   - name: LezWatch.TV
@@ -8,15 +11,16 @@ sites:
     url: https://docs.lezwatchtv.com
 
 status-website:
-  # Add your custom domain name, or comment the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # Use cname for custom domain, or comment the `cname` line if you don't have a domain
   cname: status.lezwatchtv.com
+  # Use baseUrl for the GitHub Pages URL (i.e. use <repo> from https://<owner>.github.io/<repo>/), or comment the `baseUrl` line if you use a custom domain
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/logo.svg
+  logoUrl: https://status.lezwatchtv.com/logo.svg
   name: LezWatch.TV Status
-  faviconSvg: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/logo.svg
+  favicon: https://status.lezwatchtv.com/favicon.png
+  faviconSvg: https://status.lezwatchtv.com/favicon.svg
   introTitle: "**LezWatch.TV** is the greatest database of Queer Female, Non-Binary, and Transgender TV."
-  introMessage: Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)
+  introMessage: "Keep up to date with our site status. [**Check out LezWatch.TV**](https://lezwatchtv.com)"
   navbar:
     - title: Status
       href: https://status.lezwatchtv.com
@@ -24,8 +28,5 @@ status-website:
       href: https://lezwatchtv.com
     - title: Docs.
       href: https://docs.lezwatchtv.com
-  themeUrl: https://raw.githubusercontent.com/LezWatch/upptime/master/assets/style.css
+  themeUrl: https://status.lezwatchtv.com/style.css
   customHeadHtml: "<script async defer src='https://uptime.ipstenu.com/tracker.js' data-website-id='cmh8h74050cg7387jvs6rdphf'></script>"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
