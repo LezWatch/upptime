@@ -11,7 +11,7 @@ sites:
     url: https://docs.lezwatchtv.com
 
 status-website:
-  # Use cname for custom domain, or comment the `cname` line if you don't have a domain
+  # Use cname for custom domain, or comment the `cname` line if you don't have a domain (we do)
   cname: status.lezwatchtv.com
   # Use baseUrl for the GitHub Pages URL (i.e. use <repo> from https://<owner>.github.io/<repo>/), or comment the `baseUrl` line if you use a custom domain
   # baseUrl: /upptime
