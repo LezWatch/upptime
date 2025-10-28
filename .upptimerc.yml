@@ -7,10 +7,8 @@ repo: upptime
 sites:
   - name: LezWatch.TV
     url: https://www.lezwatchtv.com
-    slug: lwtv
   - name: Documentation
     url: https://docs.lezwatchtv.com
-    slug: docs
 
 status-website:
   # Use cname for custom domain, or comment the `cname` line if you don't have a domain
