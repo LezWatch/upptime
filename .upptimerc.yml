@@ -22,8 +22,6 @@ status-website:
   introTitle: "Status of **LezWatch.TV** - The Greatest Database of Queer Female, Non-Binary, and Transgender TV"
   introMessage: "Keep up to date with our site status here and don't forget to check out the [**main site**](https://lezwatchtv.com) for more information on Queer TV."
   navbar:
-    - title: Status
-      href: https://status.lezwatchtv.com
     - title: LWTV
       href: https://lezwatchtv.com
     - title: Docs.
