@@ -4,19 +4,19 @@
     "url": "https://www.lezwatchtv.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lezwatchtv.com.ico",
     "slug": "lez-watch-tv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 849,
-    "timeWeek": 756,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 771,
+    "timeDay": 969,
+    "timeWeek": 771,
+    "timeMonth": 771,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2025-10-31": 0
+      "2025-10-31": 29
     }
   },
   {
