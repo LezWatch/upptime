@@ -4,6 +4,9 @@
 owner: lezwatch
 repo: upptime
 
+assignees:
+  - ipstenu
+
 sites:
   - name: LezWatch.TV
     url: https://lezwatchtv.com
@@ -24,6 +27,12 @@ sites:
     - "Authorization: Basic $TVMAZE_API_KEY"
     - "Content-Type: application/json"
     __dangerous__body_down_if_text_missing: '"premium":3'
+  - name: TMDB
+    url: https://api.themoviedb.org/3/authentication
+    headers:
+    - "Authorization: Bearer $TMDB_API_KEY"
+    - "Content-Type: application/json"
+    __dangerous__body_down_if_text_missing: '"success":true'
 
 status-website:
   cname: status.lezwatchtv.com
