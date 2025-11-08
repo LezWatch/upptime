@@ -4,17 +4,38 @@
 owner: lezwatch
 repo: upptime
 
+assignees:
+  - ipstenu
+
 sites:
   - name: LezWatch.TV
-    url: https://www.lezwatchtv.com
+    url: https://lezwatchtv.com
   - name: Documentation
     url: https://docs.lezwatchtv.com
+  - name: Last Death
+    url: https://lezwatchtv.com/wp-json/lwtv/v1/last-death
+    __dangerous__body_down_if_text_missing: '"id":94448'
+  - name: GTMetrix
+    url: https://gtmetrix.com/api/2.0/reports/pRxVXw90
+    headers:
+    - "Authorization: Basic $GTMETRIX_API_KEY"
+    - "Content-Type: application/json"
+    __dangerous__body_down_if_text_missing: '"gtmetrix_grade":"A"'
+  - name: TVMaze
+    url: https://api.tvmaze.com/v1/auth/validate
+    headers:
+    - "Authorization: Basic $TVMAZE_API_KEY"
+    - "Content-Type: application/json"
+    __dangerous__body_down_if_text_missing: '"premium":3'
+  - name: TMDB
+    url: https://api.themoviedb.org/3/authentication
+    headers:
+    - "Authorization: Bearer $TMDB_API_KEY"
+    - "Content-Type: application/json"
+    __dangerous__body_down_if_text_missing: '"success":true'
 
 status-website:
-  # Use cname for custom domain, or comment the `cname` line if you don't have a domain (we do)
   cname: status.lezwatchtv.com
-  # Use baseUrl for the GitHub Pages URL (i.e. use <repo> from https://<owner>.github.io/<repo>/), or comment the `baseUrl` line if you use a custom domain
-  # baseUrl: /upptime
   logoUrl: https://status.lezwatchtv.com/logo.svg
   name: LezWatch.TV Status
   favicon: https://status.lezwatchtv.com/favicon.ico
