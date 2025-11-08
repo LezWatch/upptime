@@ -75,22 +75,20 @@
   },
   {
     "name": "TVMaze",
-    "url": "https://api.tvmaze.com/shows/1",
+    "url": "https://api.tvmaze.com/v1/auth/validate",
     "icon": "https://icons.duckduckgo.com/ip3/api.tvmaze.com.ico",
     "slug": "tv-maze",
     "status": "up",
-    "uptime": "6.51%",
-    "uptimeDay": "6.51%",
-    "uptimeWeek": "6.51%",
-    "uptimeMonth": "6.51%",
-    "uptimeYear": "6.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-11-07": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
