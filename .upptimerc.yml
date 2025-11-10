@@ -13,7 +13,7 @@ sites:
   - name: Documentation
     url: https://docs.lezwatchtv.com
   - name: Last Death
-    url: https://lezwatchtv.com/wp-json/lwtv/v1/last-death
+    url: https://lezwatchtv.com/wp-json/lwtv/v1/last-death&nocache
     __dangerous__body_down_if_text_missing: '"id":94885'
   - name: GTMetrix
     url: https://gtmetrix.com/api/2.0/reports/pRxVXw90
