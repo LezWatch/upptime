@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1721,
-    "timeDay": 2177,
+    "timeDay": 2193,
     "timeWeek": 1898,
     "timeMonth": 1721,
     "timeYear": 1721,
@@ -42,9 +42,9 @@
     "url": "https://lezwatchtv.com/wp-json/lwtv/v1/last-death?nocache",
     "icon": "https://icons.duckduckgo.com/ip3/lezwatchtv.com.ico",
     "slug": "last-death",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-11": 0
+    }
   },
   {
     "name": "GTMetrix",
