@@ -1,7 +1,7 @@
 url: https://lezwatchtv.com/wp-json/lwtv/v1/last-death?nocache
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-11T21:44:48.249Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2025-11-11T21:55:12.493Z
 startTime: 2025-11-07T23:20:48.992Z
 generator: Upptime <https://github.com/upptime/upptime>
