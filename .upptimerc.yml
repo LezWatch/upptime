@@ -12,27 +12,6 @@ sites:
     url: https://lezwatchtv.com
   - name: Documentation
     url: https://docs.lezwatchtv.com
-  - name: Last Death
-    url: https://lezwatchtv.com/wp-json/lwtv/v1/last-death?nocache
-    __dangerous__body_down_if_text_missing: '"id":94885'
-  - name: GTMetrix
-    url: https://gtmetrix.com/api/2.0/reports/pRxVXw90
-    headers:
-    - "Authorization: Basic $GTMETRIX_API_KEY"
-    - "Content-Type: application/json"
-    __dangerous__body_down_if_text_missing: '"gtmetrix_grade":"A"'
-  - name: TVMaze
-    url: https://api.tvmaze.com/v1/auth/validate
-    headers:
-    - "Authorization: Basic $TVMAZE_API_KEY"
-    - "Content-Type: application/json"
-    __dangerous__body_down_if_text_missing: '"premium":3'
-  - name: TMDB
-    url: https://api.themoviedb.org/3/authentication
-    headers:
-    - "Authorization: Bearer $TMDB_API_KEY"
-    - "Content-Type: application/json"
-    __dangerous__body_down_if_text_missing: '"success":true'
 
 status-website:
   cname: status.lezwatchtv.com
