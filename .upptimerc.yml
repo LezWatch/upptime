@@ -27,3 +27,4 @@ status-website:
     - title: Docs.
       href: https://docs.lezwatchtv.com
   themeUrl: https://status.lezwatchtv.com/style.css?version=1.0.0
+  customFootHtml: "<script async defer src='https://uptime.ipstenu.com/tracker.js' data-website-id='cmhz46c5f008x10i1jrfvyd74'></script>"
