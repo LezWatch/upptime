@@ -15,12 +15,6 @@ sites:
   - name: Last Death
     url: https://lezwatchtv.com/wp-json/lwtv/v1/last-death?nocache
     __dangerous__body_down_if_text_missing: '"id":94885'
-  - name: GTMetrix
-    url: https://gtmetrix.com/api/2.0/reports/pRxVXw90
-    headers:
-    - "Authorization: Basic $GTMETRIX_API_KEY"
-    - "Content-Type: application/json"
-    __dangerous__body_down_if_text_missing: '"gtmetrix_grade":"A"'
   - name: TVMaze
     url: https://api.tvmaze.com/v1/auth/validate
     headers:
@@ -47,4 +41,3 @@ status-website:
     - title: Docs.
       href: https://docs.lezwatchtv.com
   themeUrl: https://status.lezwatchtv.com/style.css?version=1.0.0
-  customHeadHtml: "<script async defer src='https://uptime.ipstenu.com/tracker.js' data-website-id='cmhzhkoua00st10i1ieifjfq0'></script>"
