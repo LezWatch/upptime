@@ -1,7 +1,7 @@
 url: https://api.tvmaze.com/v1/auth/validate
 status: up
 code: 200
-responseTime: 471
-lastUpdated: 2025-11-19T04:50:05.485Z
+responseTime: 345
+lastUpdated: 2025-11-19T23:13:42.392Z
 startTime: 2025-11-19T04:29:42.022Z
 generator: Upptime <https://github.com/upptime/upptime>
