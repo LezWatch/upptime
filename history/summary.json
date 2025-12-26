@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.lezwatchtv.com.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.85%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.85%",
     "time": 1826,
     "timeDay": 2125,
     "timeWeek": 2106,
     "timeMonth": 1795,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2025-12-25": 0,
+      "2025-12-26": 85,
+      "2025-12-25": 4,
       "2025-12-04": 38
     }
   }
