@@ -4,9 +4,9 @@
     "url": "https://lezwatchtv.com",
     "icon": "https://icons.duckduckgo.com/ip3/lezwatchtv.com.ico",
     "slug": "lez-watch-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 1077,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2026-03-08": 0,
       "2026-03-02": 30,
       "2025-11-18": 119,
       "2025-10-31": 29
