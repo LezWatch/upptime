@@ -4,15 +4,15 @@
     "url": "https://lezwatchtv.com",
     "icon": "https://icons.duckduckgo.com/ip3/lezwatchtv.com.ico",
     "slug": "lez-watch-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.87%",
     "time": 624,
-    "timeDay": 752,
-    "timeWeek": 449,
+    "timeDay": 0,
+    "timeWeek": 488,
     "timeMonth": 342,
     "timeYear": 624,
     "dailyMinutesDown": {
@@ -27,7 +27,8 @@
       "2026-08-09": 20,
       "2026-08-15": 20,
       "2026-08-17": 47,
-      "2026-08-19": 29
+      "2026-08-19": 29,
+      "2026-08-23": 5
     }
   },
   {
@@ -35,15 +36,15 @@
     "url": "https://docs.lezwatchtv.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.lezwatchtv.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.87%",
     "time": 1987,
-    "timeDay": 2238,
-    "timeWeek": 2106,
+    "timeDay": 0,
+    "timeWeek": 2071,
     "timeMonth": 2066,
     "timeYear": 1987,
     "dailyMinutesDown": {
@@ -59,7 +60,8 @@
       "2026-08-08": 35,
       "2026-08-09": 16,
       "2026-08-15": 15,
-      "2026-08-17": 42
+      "2026-08-17": 42,
+      "2026-08-23": 0
     }
   }
 ]
