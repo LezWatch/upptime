@@ -12,6 +12,8 @@ sites:
     url: https://lezwatchtv.com
   - name: Documentation
     url: https://docs.lezwatchtv.com
+  - name: Search
+    url: https://search.lezwatchtv.com
 status-website:
   cname: status.lezwatchtv.com
   logoUrl: https://status.lezwatchtv.com/logo.svg
