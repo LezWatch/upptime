@@ -6,12 +6,12 @@
     "slug": "lez-watch-tv",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.73%",
     "time": 564,
-    "timeDay": 490,
+    "timeDay": 449,
     "timeWeek": 243,
     "timeMonth": 390,
     "timeYear": 554,
@@ -30,8 +30,7 @@
       "2026-08-25": 39,
       "2026-10-16": 301,
       "2026-10-18": 134,
-      "2026-11-14": 378,
-      "2026-11-18": 5
+      "2026-11-14": 378
     }
   },
   {
@@ -41,12 +40,12 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.30%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.79%",
     "time": 2025,
-    "timeDay": 1236,
+    "timeDay": 2176,
     "timeWeek": 1838,
     "timeMonth": 2201,
     "timeYear": 2063,
@@ -66,8 +65,7 @@
       "2026-08-17": 42,
       "2026-08-25": 34,
       "2026-10-18": 129,
-      "2026-11-14": 373,
-      "2026-11-18": 1
+      "2026-11-14": 373
     }
   }
 ]
