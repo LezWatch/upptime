@@ -8,10 +8,14 @@ assignees:
   - ipstenu
 
 sites:
+  # These two hosts' firewalls intermittently drop traffic from GitHub Actions
+  # runner IPs (silent 30s timeouts, HTTP 0), so check them via Globalping probes.
   - name: LezWatch.TV
     url: https://lezwatchtv.com
+    type: globalping
   - name: Documentation
     url: https://docs.lezwatchtv.com
+    type: globalping
   - name: Search
     url: https://search.lezwatchtv.com
 status-website:
